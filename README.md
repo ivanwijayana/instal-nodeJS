@@ -13,4 +13,4 @@
 ![NPM](img/instal-npm-node.PNG "NPM")
 
 ### Instal Live Server
-![Live](img/instal-live.PNG "Live")
+![Live](img/live-server.PNG "Live")
